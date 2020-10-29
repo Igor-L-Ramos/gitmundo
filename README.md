@@ -1,2 +1,2 @@
-# gitmundo
- Teste de GIT e GitHub
+# Git Mundo
+ Teste de GIT e GitHub para aprendizado
